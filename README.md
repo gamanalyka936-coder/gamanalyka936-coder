@@ -18,7 +18,6 @@
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gamanalyka936-coder&layout=compact&theme=dark)
 
 
-
 *“Securing the future, one byte at a time.”*
 
 
